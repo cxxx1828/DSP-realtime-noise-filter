@@ -74,7 +74,7 @@ void main( void )
 	aic3204_write_wav_header(&outputWAVhdr);
 
 				//2 , 35 , 77, 129,
-	for (i = 0; i < 129; i++) {//broj filtera drugog reda
+	for (i = 0; i < 129; i++) {
 		historyL[i] = 0;
 		historyR[i] = 0;
 		//history[i] = 0;
