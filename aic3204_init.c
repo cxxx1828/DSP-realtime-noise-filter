@@ -9,7 +9,7 @@
 /*   Sets up the codec for line inputs.                                      */
 /*   Uses a sampling frequency of 48000 Hz.                                  */ 
 /*                                                                           */
-/*   Author  : Dejan Bokan                                                   */
+/*  							                                              */
 /*                                                                           */
 /*****************************************************************************/
 
