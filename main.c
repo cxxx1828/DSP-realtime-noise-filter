@@ -7,7 +7,7 @@
 #include "WAVheader.h"
 #include "fir.h"
 #include "iir.h"
-#include "parametri.h"
+#include "parameters.h"
 #include "irr_coef.h"
 
 static WAV_HEADER outputWAVhdr;
