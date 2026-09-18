@@ -8,7 +8,7 @@
 /*                                                                           */
 /* REVISION                                                                  */
 /*   Revision: 1.00	                                                         */
-/*   Author  : Dejan Bokan                                                   */
+/*                                                   						 */
 /*****************************************************************************/
 #include <stdio.h>
 #include "tistdtypes.h"
